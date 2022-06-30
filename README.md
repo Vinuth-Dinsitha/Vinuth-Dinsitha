@@ -7,7 +7,7 @@
 
 
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
 If you like my projects 💜, give it a ⭐ and share it with friends!
 
