@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=68&width=1050&height=200&lines=Hi+I'm+Vinuth+Dinsitha)](https://github.com/Vinuth-Dinsitha) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=000000&size=36&width=1050&height=100&lines=•+Don't+forget+to+follow+my+Github+profile!;+•+Good+bye 👋)](https://github.com/Vinuth-Dinsitha)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=000000&size=36&width=1050&height=100&lines=•+Don't+forget+to+follow+my+Github+profile!;+•+Good+bye 👋)]
+(https://github.com/Vinuth-Dinsitha)
 
 
 
